@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+<author>Edge Gaming / Castiga</author>
+<translationby>Castiga</translationby>
+	<texts>
+		<text name="name_EDGELowLoader"			text="Fliegl Tieflader XL"/>
+		<text name="shopItem_EDGELowLoader"		text="Fliegl Tieflader"/>
+		<text name="function_EDGELowLoader"		text="Viel größerer Tieflader, der tatsächlich zu Ihrer riesigen Maschinerie passt."/>
+        <text name="configuration_TwinRadial" 	text="Zwillingsradial"/>
+        <text name="configuration_CARGOXBIB" 	text="Ladung"/>
+        <text name="configuration_CXBheavyduty" text="Schwerlast"/>
+        <text name="configuration_rough" 		text="Rau"/>
+        <text name="configuration_TwinForestry"	text="Forstwirtschaft"/>
+        <text name="input_function_light" 		text="Standlicht ein / aus"/>
+        <text name="function_light" 			text="Ausgestattet mit Bright-Arbeitsscheinwerfern für die Nachtarbeit."/>
+        <text name="color_EDGEGOLD" 			text="EDGE GOLD"/>
+        <text name="color_EDGESILVER" 			text="EDGE SILBER"/>
+        <text name="color_DARKGREY"				text="DUNKELGRAU"/>
+        <text name="color_ITRUNNER" 			text="IT RUNNER"/>
+        <text name="color_CHROME" 				text="CHROM"/>
+        <text name="color_SILVER" 				text="SILBER"/>
+        <text name="color_DARKBLUECHROME" 		text="DUNKELBLAU CHROM"/>
+        <text name="color_ORANGECHROME" 		text="ORANGE CHROM"/>
+        <text name="color_GREENCHROME" 			text="GRÜN CHROM"/>
+        <text name="color_BLUECHROME" 			text="BLAU CHROM"/>
+        <text name="color_REDCHROME" 			text="ROT CHROM"/>
+	</texts>
+</l10n>

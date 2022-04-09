@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+<author>Edge Gaming / Castiga</author>
+<translationby>Castiga</translationby>
+	<texts>
+		<text name="name_EDGELowLoader"			text="Fliegl Caricatore Basso XL"/>
+		<text name="shopItem_EDGELowLoader"		text="Fliegl Caricatore Basso"/>
+		<text name="function_EDGELowLoader"		text="Caricatore basso molto più grande che si adatta perfettamente ai tuoi enormi macchinari."/>
+        <text name="configuration_TwinRadial" 	text="Radiale doppia"/>
+        <text name="configuration_CARGOXBIB" 	text="Carico"/>
+        <text name="configuration_CXBheavyduty" text="Robusto"/>
+        <text name="configuration_rough" 		text="Ruvido"/>
+        <text name="configuration_TwinForestry"	text="Silvicoltura"/>
+        <text name="input_function_light" 		text="Luci laterali accese / spente"/>
+        <text name="function_light" 			text="Dotato di luci di lavoro luminose per il lavoro notturno."/>
+        <text name="color_EDGEGOLD" 			text="EDGE ORO"/>
+        <text name="color_EDGESILVER" 			text="EDGE ARGENTO"/>
+        <text name="color_DARKGREY"				text="GRIGIO SCURO"/>
+        <text name="color_ITRUNNER" 			text="IT RUNNER"/>
+        <text name="color_CHROME" 				text="CROMO"/>
+        <text name="color_SILVER" 				text="ARGENTO"/>
+        <text name="color_DARKBLUECHROME" 		text="BLU SCURO CROMO"/>
+        <text name="color_ORANGECHROME" 		text="ARANCIA CROMO"/>
+        <text name="color_GREENCHROME" 			text="VERDE CROMO"/>
+        <text name="color_BLUECHROME" 			text="BLU CROMO"/>
+        <text name="color_REDCHROME" 			text="ROSSO CROMO"/>
+	</texts>
+</l10n>
